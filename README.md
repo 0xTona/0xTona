@@ -7,5 +7,5 @@
 
 | Date | Protocol | Platform | Type | Result |
 |------|----------|----------|------|--------|
-| 17/11/2025 | AlignerZ | Dualguard | Launchpad | [17st](https://x.com/dualguardaudits/status/2013020303929024656?s=20) |
+| 17/11/2025 | AlignerZ | Dualguard | Launchpad | [17th](https://x.com/dualguardaudits/status/2013020303929024656?s=20) |
 
