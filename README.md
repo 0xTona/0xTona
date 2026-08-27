@@ -3,9 +3,9 @@
 
 ---
 
-## 🏆 Public Competitions
+## Public Competitions
 
 | Date | Protocol | Platform | Type | Result |
 |------|----------|----------|------|--------|
 | 17/11/2025 | AlignerZ | Dualguard | Launchpad | [17th](https://x.com/dualguardaudits/status/2013020303929024656?s=20) |
-
+| 14/08/2026 | Europeum DIDR SC DualDefense Audit | HakenProof | Decentralized Identifiers | [1 Information](https://x.com/dualguardaudits/status/2013020303929024656?s=20) |
