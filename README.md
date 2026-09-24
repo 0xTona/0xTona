@@ -15,4 +15,4 @@
 
 | Date | Protocol | Sector | Result |
 |------|----------|--------|--------|
-|01/09/2026| [Kamigotchi](https://app.kamigotchi.io/) | Gamefi | 2 Medium on SM |
+|01/09/2026| [Kamigotchi](https://app.kamigotchi.io/) | Gamefi | 2 Medium (Smart Contract) |
