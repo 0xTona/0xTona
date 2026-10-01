@@ -1,7 +1,16 @@
-# Introduction
-   I'm [0xTona](https://x.com/0xTona_), an Security Researcher at [A* Audit](https://x.com/Astaraudit)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" align="absmiddle" alt="Hacker Cat">
+  &nbsp;&nbsp;0xTona - Independent Smart Contract Auditor&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="45" align="absmiddle" alt="Hackerman">
+</h1>
+<div align="center">
+  <a href="https://x.com/0xTona_"><img src="https://img.shields.io/badge/X-%400xTona_-black?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://discord.com/users/1184129596141084685"><img src="https://img.shields.io/badge/Discord-%400xTona-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
 
----
+
+## Introduction
+   
 
 ## Public Competitions
 
@@ -16,3 +25,5 @@
 | Date | Protocol | Sector | Result |
 |------|----------|--------|--------|
 |01/09/2026| [Kamigotchi](https://app.kamigotchi.io/) | Gamefi | 2 Medium (Smart Contract) |
+
+
