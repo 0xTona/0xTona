@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" align="absmiddle" alt="Hacker Cat">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 45px; height: 45px; object-fit: cover;" align="absmiddle" alt="Hacker Cat">
   &nbsp;&nbsp;0xTona - Independent Smart Contract Auditor&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="45" align="absmiddle" alt="Hackerman">
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" style="width: 45px; height: 45px; object-fit: cover;" align="absmiddle" alt="This is Fine">
 </h1>
 <div align="center">
   <a href="https://x.com/0xTona_"><img src="https://img.shields.io/badge/X-%400xTona_-black?style=flat&logo=x&logoColor=white" alt="X"></a>
@@ -9,8 +9,10 @@
 </div>
 
 
+
 ## Introduction
-   
+
+  I'm an independent smart contract auditor and Ethereum enthusiast. Deliberately breaking DeFi protocols to keep your project off the front page of Rekt News.
 
 ## Public Competitions
 
