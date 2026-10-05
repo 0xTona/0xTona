@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://x.com/0xTona_"><img src="https://img.shields.io/badge/X-%400xTona_-black?style=flat&logo=x&logoColor=white" alt="X"></a>
   <a href="https://discord.com/users/1184129596141084685"><img src="https://img.shields.io/badge/Discord-%40iamtona-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:iam0xtona@gmail.com"><img src="https://img.shields.io/badge/Email-iam0xtona%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
 
@@ -28,4 +29,4 @@
 
 ## 📬 Let's Work Together
 
-**Currently open for private audits.** DM me on X or Discord to discuss your protocol.
+**Currently open for private audits.** DM me on X/Discord/Gmail to discuss your protocol.
