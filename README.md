@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
   <a href="https://x.com/0xTona_"><img src="https://img.shields.io/badge/X-%400xTona_-black?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://discord.com/users/1184129596141084685"><img src="https://img.shields.io/badge/Discord-%400xTona-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.com/users/1184129596141084685"><img src="https://img.shields.io/badge/Discord-%40iamtona-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 
 
