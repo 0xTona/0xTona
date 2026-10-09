@@ -21,6 +21,12 @@
 | 14/08/2026 | Europeum DIDR SC DualDefense Audit | HakenProof | Decentralized Identifiers | [4th](https://hackenproof.com/hackers/Tona?tab=programs) |
 | 01/09/2026 | Alberich Token SC DualDefense Audit | HakenProof | ERC20 | [2nd](https://hackenproof.com/hackers/Tona?tab=programs) |
 
+## 💰 Bug Bounty
+
+| Date | Protocol | Platform | Type | Result |
+|------|----------|----------|------|--------|
+| 09/10/2026 | Nado | HackenProof | DEX (Perpetuals & Spot) | [1 Informative](https://hackenproof.com/hackers/Tona?tab=programs) |
+
 ## 🛡️ Responsible Disclosures
 
 | Date | Protocol | Sector | Result |
