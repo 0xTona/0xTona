@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-  I'm an independent smart contract auditor and Ethereum enthusiast. Deliberately breaking DeFi protocols to keep your project off the front page of Rekt News 🚨.
+  I'm an independent **smart contract auditor** and **Ethereum enthusiast**. Deliberately breaking DeFi protocols to keep **your project off the front page of Rekt News**.
 
 ## ⚔️ Public Competitions
 
