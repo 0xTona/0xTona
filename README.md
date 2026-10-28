@@ -15,24 +15,25 @@
 
 ## ⚔️ Public Competitions
 
-| Date | Protocol | Platform | Type | Result |
-|------|----------|----------|------|--------|
-| 17/11/2025 | AlignerZ | Dualguard | Launchpad | [17th](https://x.com/dualguardaudits/status/2013020303929024656?s=20) |
-| 14/08/2026 | Europeum DIDR SC DualDefense Audit | HakenProof | Decentralized Identifiers | [4th](https://hackenproof.com/hackers/Tona?tab=programs) |
-| 01/09/2026 | Alberich Token SC DualDefense Audit | HakenProof | ERC20 | [2nd](https://hackenproof.com/hackers/Tona?tab=programs) |
+| Date | Protocol | Platform | Type | Result | Findings |
+|------|----------|----------|------|--------| -------- |
+| 17/11/2025 | AlignerZ | Dualguard | Launchpad | [17th](https://x.com/dualguardaudits/status/2013020303929024656?s=20) | 9H/3M/1L |
+| 14/08/2026 | Europeum DIDR | HakenProof | Decentralized Identifiers | [4th](https://hackenproof.com/hackers/Tona?tab=programs) | 1M/1I |
+| 01/09/2026 | Alberich Token | HakenProof | ERC20 | [2nd](https://hackenproof.com/hackers/Tona?tab=programs) | 1I |
+| 14/09/2026 | RAIN-USDR | HakenProof | CDP | [73nd](https://hackenproof.com/hackers/Tona?tab=programs) | 3H |
 
 ## 💰 Bug Bounty
 
-| Date | Protocol | Platform | Type | Result |
+| Date | Protocol | Platform | Type | Findings |
 |------|----------|----------|------|--------|
-| 09/10/2026 | Nado | HackenProof | DEX (Perpetuals & Spot) | [1 Informative](https://hackenproof.com/hackers/Tona?tab=programs) |
+| 09/10/2026 | Nado | HackenProof | DEX (Perpetuals & Spot) | 1I |
 
 ## 🛡️ Responsible Disclosures
 
-| Date | Protocol | Sector | Result |
+| Date | Protocol | Sector | Findings |
 |------|----------|--------|--------|
-|01/09/2026| [Kamigotchi](https://app.kamigotchi.io/) | Gamefi | 2 Medium |
-|05/10/2026| [Illuvium staking](https://overworld.illuvium.io/) | Staking | 1 High  |
+|01/09/2026| [Kamigotchi](https://app.kamigotchi.io/) | Gamefi | 2M |
+|05/10/2026| [Illuvium staking](https://overworld.illuvium.io/) | Staking | 1H  |
 
 ## 📬 Let's Work Together
 
