@@ -25,6 +25,7 @@ I'm an independent **smart contract auditor** and **Ethereum enthusiast**. Delib
 | Date       | Protocol | Platform    | Type | Findings |
 | ---------- | -------- | ----------- | ---- | -------- |
 | 09/10/2026 | Nado     | HackenProof | DEX  | 1I       |
+| 02/11/2026 | Unitus V2     | HackenProof | Lending  | 1I       |
 
 ## 🛡️ Responsible Disclosures
 
